@@ -25,7 +25,7 @@ SECRET_KEY = 'j9+6l)9+=u%e#a8+_zwpsb6u$sq$xh)!ov9uajzt+pkd73ge17'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'hadmi.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'hadmi2.pythonanywhere.com']
 
 
 # Application definition
